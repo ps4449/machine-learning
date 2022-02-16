@@ -25,4 +25,10 @@ List of implementations:<br>
     <td>Applying random forest classification for multiclass classification to predict loans with risk.</td>
     <td align="center"><a href="https://github.com/ps4449/machine-learning/tree/main/RandomForest_GermanCreditDataset">🡥</a></td>
   </tr>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/gabrielpreda/covid-19-tweets/master/covid19_tweets.csv">COVID19 Tweets Dataset</a></td>
+    <td>Sentiment Analysis</td>
+    <td>Applying NLP techniques such as sentiment analysis on twitter data to gather public opinion during the time of crisis.</td>
+    <td align="center"><a href="https://github.com/ps4449/machine-learning/tree/main/SentimentAnalysis_COVID19Dataset">🡥</a></td>
+  </tr>
 </table>
